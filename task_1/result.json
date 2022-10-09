@@ -1,0 +1,33 @@
+{
+  "India": {
+    "people": [
+      "Ramesh",
+      "Shawn"
+    ],
+    "count": 2
+  },
+  "Paris": {
+    "people": [
+      "Sarah",
+      "Elizabeth"
+    ],
+    "count": 2
+  },
+  "USA": {
+    "people": [
+      "John",
+      "Bob",
+      "Chris"
+    ],
+    "count": 3
+  },
+  "Ukraine": {
+    "people": [
+      "Vlad",
+      "Yaroslav",
+      "Ira",
+      "Serhii"
+    ],
+    "count": 4
+  }
+}
